@@ -10,7 +10,7 @@ import pastaImg from "@/assets/pasta-1.png";
 import burgerImg from "@/assets/burger-1.png";
 import tacosImg from "@/assets/tacos-frame.png";
 import heroPizza from "@/assets/hero-pizza.png";
-import pizzaLoop from "@/assets/Rotating-Pizza.webm";
+import pizzaLoop from "@/assets/rotating-pizza.webm";
 import burgerLoop from "@/assets/rotating-burger.mp4";
 import tacosLoop from "@/assets/rotating-tacos.mp4";
 
