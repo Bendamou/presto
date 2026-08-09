@@ -8,9 +8,9 @@ import p5 from "@/assets/pizza-5.png";
 import p6 from "@/assets/pizza-6.png";
 import pastaImg from "@/assets/pasta-1.png";
 import burgerImg from "@/assets/burger-1.png";
-import tacosImg from "@/assets/tacos-1.png";
+import tacosImg from "@/assets/tacos-frame.png";
 import heroPizza from "@/assets/hero-pizza.png";
-import pizzaLoop from "@/assets/rotating-pizza.mp4";
+import pizzaLoop from "@/assets/Rotating-Pizza.webm";
 import burgerLoop from "@/assets/rotating-burger.mp4";
 import tacosLoop from "@/assets/rotating-tacos.mp4";
 

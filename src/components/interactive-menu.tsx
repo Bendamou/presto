@@ -8,7 +8,7 @@ import p5 from "@/assets/pizza-5.png";
 import p6 from "@/assets/pizza-6.png";
 import burgerPhoto from "@/assets/burger-floating.png";
 const burgerImg = burgerPhoto;
-import tacosImg from "@/assets/tacos-1.png";
+import tacosImg from "@/assets/tacos-frame.png";
 import heroPizza from "@/assets/hero-pizza.png";
 import supCheese from "@/assets/sup-cheese.jpg";
 import supMeat from "@/assets/sup-meat.jpg";

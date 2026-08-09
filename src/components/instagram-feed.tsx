@@ -1,12 +1,13 @@
 import { Instagram, Heart, MessageCircle, Play, Sparkles, ExternalLink } from "lucide-react";
 // Vous pouvez remplacer ces assets par vos vraies vidéos verticales (Reels / TikTok)
-import reel1 from "@/assets/insta1.mp4";
-import reel2 from "@/assets/burger-floating.mp4";
-import reel3 from "@/assets/tacos-signature.mp4";
+import reel1 from "@/assets/insta1.webm";
+import reel2 from "@/assets/burger-floating.webm";
+import reel3 from "@/assets/Tacos-Signature.webm";
 import reel4 from "@/assets/insta2.mp4";
 import reel5 from "@/assets/insta3.mp4";
 import reel6 from "@/assets/insta4.mp4";
 import reel7 from "@/assets/insta6.mp4";
+import reel8 from "@/assets/insta5.mp4";
 
 const reels = [
   {
@@ -60,6 +61,14 @@ const reels = [
   {
     id: 7,
     video: reel7,
+    views: "31.4K",
+    likes: "3,420",
+    comments: "140",
+    caption: "450°C dans le four à bois traditionnel 🇮🇹 #artisan",
+  },
+  {
+    id: 8,
+    video: reel8,
     views: "31.4K",
     likes: "3,420",
     comments: "140",
