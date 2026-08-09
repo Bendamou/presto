@@ -1,8 +1,8 @@
 import { Instagram, Heart, MessageCircle, Play, Sparkles, ExternalLink } from "lucide-react";
 // Vous pouvez remplacer ces assets par vos vraies vidéos verticales (Reels / TikTok)
-import reel1 from "@/assets/insta1.webm";
-import reel2 from "@/assets/burger-floating.webm";
-import reel3 from "@/assets/tacos-signature.webm";
+import reel1 from "@/assets/insta1.mp4";
+import reel2 from "@/assets/burger-floating.mp4";
+import reel3 from "@/assets/tacos-signature.mp4";
 import reel4 from "@/assets/insta2.mp4";
 import reel5 from "@/assets/insta3.mp4";
 import reel6 from "@/assets/insta4.mp4";

@@ -1,6 +1,6 @@
-import pizzaLoop from "@/assets/rotating-pizza.webm";
-import burgerLoop from "@/assets/burger-floating.webm";
-import tacosLoop from "@/assets/tacos-signature.webm";
+import pizzaLoop from "@/assets/rotating-pizza.mp4";
+import burgerLoop from "@/assets/burger-floating.mp4";
+import tacosLoop from "@/assets/tacos-signature.mp4";
 import { Sparkles } from "lucide-react";
 
 const dishes = [
